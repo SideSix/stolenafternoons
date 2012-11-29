@@ -1,0 +1,42 @@
+/* element styles for all pages */
+
+body {
+  background-color: #727F70;
+}
+
+#container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background: url(creampaper.png)
+}
+
+#wrapper {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+ul {
+  list-style: none;
+  list-style-image: none;
+}
+
+aside {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+footer {
+  width: 90%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 35px;
+  border-top: 2px solid #bbb;
+  padding-bottom: 25px;
+}
+
+footer ul {
+  margin-top: 25px;
+}
